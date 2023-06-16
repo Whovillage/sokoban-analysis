@@ -1,6 +1,6 @@
 # Levels used
 
-1: Hard-easy
+1: Level 1
 
 ID: 1
 
