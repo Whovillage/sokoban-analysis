@@ -1,4 +1,4 @@
-# Levelid 
+# Levels used
 
 1: Hard-easy
 
